@@ -1,7 +1,7 @@
 {
   "name": "sample-browserify",
   "version": "1.0.0",
-  "description": "Starter project for React Browserify",
+  "description": "Starter project for React Browserify. Started at Mitra",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
